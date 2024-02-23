@@ -18,10 +18,10 @@
 
 
 	var fullHeight = function() {
-		var eightyPercentHeight = $(window).height() * 0.8;
+		var eightyPercentHeight = $(window).height() * 0.6;
 		$('.js-fullheight').css('height', eightyPercentHeight);
 		$(window).resize(function(){
-			var eightyPercentHeight = $(window).height() * 0.8;
+			var eightyPercentHeight = $(window).height() * 0.6;
 			$('.js-fullheight').css('height', eightyPercentHeight);
 		});
 	};
