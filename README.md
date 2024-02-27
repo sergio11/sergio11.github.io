@@ -32,7 +32,7 @@ I'm an accomplished developer with over 8 years of experience, specializing in c
 
 Let's connect and dive deep into all things tech! Feel free to reach out for collaborations, discussions, or inquiries about my work.
 
-💻💬 Connect with me via [LinkedIn](#) or [Twitter](#).
+💻💬 Connect with me via [LinkedIn](#)
 
 ## Visit My Website
 
