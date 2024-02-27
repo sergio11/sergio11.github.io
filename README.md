@@ -43,3 +43,7 @@ Don't forget to visit my personal website to explore more about my projects, int
 - **Personal Projects:** Dive into my personal projects and see what I've been working on lately.
 
 Click [here](https://sergio11.github.io/) to visit my website!
+
+ ## Visitors Count
+
+<img width="auto" src="https://profile-counter.glitch.me/sergio11.github.io/count.svg" />
