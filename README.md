@@ -42,7 +42,11 @@ Don't forget to visit my personal website to explore more about my projects, int
 - **My Blog:** Check out my blog where I share insights, tutorials, and industry news.
 - **Personal Projects:** Dive into my personal projects and see what I've been working on lately.
 
-Click [here](https://sergio11.github.io/) to visit my website!
+## Acknowledgments  
+
+This portfolio website uses a template designed by **Colorlib**, which is licensed under **CC BY 3.0**.  
+
+This template was created with ❤️ by [Colorlib](https://colorlib.com).  
 
  ## Visitors Count
 
