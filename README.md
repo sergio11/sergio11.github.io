@@ -47,7 +47,3 @@ Don't forget to visit my personal website to explore more about my projects, int
 This portfolio website uses a template designed by **Colorlib**, which is licensed under **CC BY 3.0**.  
 
 This template was created with ❤️ by [Colorlib](https://colorlib.com).  
-
- ## Visitors Count
-
-<img width="auto" src="https://profile-counter.glitch.me/sergio11.github.io/count.svg" />
